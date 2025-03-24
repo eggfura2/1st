@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>내 첫 GitHub 페이지</title>
+        <meta charset="utf-8">
+        <meta http-equiv="viewport" content="IE=edge">
+        <title>My First Page</title>
     </head>
     <body>
-        <h1>안녕하세요! 🚀</h1>
-        <p>이것은 GitHub Pages에서 호스팅된 가장 기본적인 웹페이지입니다.</p>
+        <h1>Homepage</h1>
+        <p>여혜원 202201600</p>
     </body>
 </html>
